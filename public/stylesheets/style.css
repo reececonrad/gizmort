@@ -7,3 +7,13 @@
 body {
   color: #1c666e;
 }
+
+/* line 10, ../sass/style.scss */
+ul {
+  background-color: #3bbfce;
+}
+
+/* line 14, ../sass/style.scss */
+ul > li {
+  color: #b5e7ed;
+}

@@ -7,3 +7,10 @@ $blue: #3bbfce;
 body{
 	color:darken($blue,25%);
 }
+ul{
+	background-color: $blue;
+}
+
+ul>li{
+	color: lighten($blue,30%);
+}
